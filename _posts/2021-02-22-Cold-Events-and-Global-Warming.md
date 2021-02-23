@@ -41,12 +41,15 @@ which it is particularly cold. So given this simple physical reasoning and obser
 warming could make cold events worse? There have been various speculations in the scientific literature. A popular one suggests 
 that more warming in the Arctic due to sea ice loss would weaken the polar vortex, which is the belt of strong winds surrounding the Arctic that acts like 
 a barrier. A weaker vortex would then become more wobbly, which would allow cold polar air to penetrate further south. Although interesting for scientists, this 
-theory is very controversial and no consensus exists within the scientific community. This was pointed out recently by [Valerie Masson-Delmotte](https://twitter.com/valmasdel/status/1362027199038173191) quoting from the IPCC's most recent Assessment Report "Changes in Arctic sea ice have the potential 
-to influence mid-latitude weather (medium confidence), but there is low confidence in the detection of this influence for specific weather types."
+theory is very controversial and no consensus exists within the scientific community. This was pointed out recently 
+by [Valerie Masson-Delmotte](https://twitter.com/valmasdel/status/1362027199038173191) quoting from the IPCC's most recent Assessment Report 
+"Changes in Arctic sea ice have the potential to influence mid-latitude weather (medium confidence), but there is low confidence in the 
+detection of this influence for specific weather types." One of the issues with this theory is that 
+[observations don't show a wobblier jet stream](https://advances.sciencemag.org/content/6/8/eaay2880).
 
 ## A Science Communication Failure?
 So why is a highly speculative theory so prevalent in the public sphere, while the more straightforward and physical explanation is not? 
 I think it may be due to a failure in communicating uncertainty. As climate scientists I think we should avoid communicating highly speculative theories. 
-We should prioritize and emphasize to communicate the things we know best, the things we're really sure about. Thus, in the context of cold extremes and 
-global warming we should say that, if anything, global warming makes cold extremes less likely. If we don't say that but rather say that global warming increases 
-extremes in general and that it could make the jet stream more wobbly it can lead to public confusion.
+In communicating with the public it is advisable to communicate the things we know best, the things we're really sure about. In the context of cold extremes and 
+global warming this is the observational evidence that, if anything, global warming makes cold extremes less likely. If we omit this and make general statements
+about global warming increasing extremes and take a long time to elaborate on a controversial theory it can lead to public confusion.
