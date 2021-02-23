@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a climate scientist at Oregon State University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My homepage is here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andreas.schmittner@oregonstate.edu](mailto:andreas.schmittner@oregonstate.edu)
