@@ -1,3 +1,7 @@
+---
+layout: post
+title: Cold Events and Global Warming
+---
 The recent extreme cold event in the US has raised questions about its relation with human-caused warming. 
 In the public discussion I've noticed the broadly held misconception that global warming increases those 
 events or makes them worse. I don't think there is solid scientific evidence for this. To the contrary, I think 
@@ -5,7 +9,7 @@ the evidence indicates that, if anything, those events become less extreme and l
 So what causes this wide-spread misconception even from normally reliable and well-informed media outlets and public figures? 
 Before addressing that question let me quickly document the discrepancy between media and science.
 
-*Media*
+# Media
 On tonights PBS Newshour (Bill Gates said)[https://www.pbs.org/newshour/show/bill-gates-on-tackling-climate-change-and-the-ongoing-pandemic-response] 
 "Well, the world has had these wind patterns 
 that keep cold fronts from up in Canada from coming down into the Midwest. And as those wind patterns break down, 
@@ -24,4 +28,5 @@ storms of all kinds, including snowstorms, is also increasing dramatically. So, 
 And when they say, well, we don't need to be worried because, as a matter of fact, we are having a coldwave, this is total lack of scientific 
 knowledge. This is complete ignorance."
 
-*Science*
+# Science
+
