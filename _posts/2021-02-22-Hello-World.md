@@ -3,7 +3,7 @@ layout: post
 title: First Blog!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This will be my new blog. I plan to post thoughts on climate science that are too long for twitter.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
