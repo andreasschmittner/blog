@@ -14,7 +14,7 @@ On tonights PBS Newshour [Bill Gates said](https://www.pbs.org/newshour/show/bil
 "Well, the world has had these wind patterns 
 that keep cold fronts from up in Canada from coming down into the Midwest. And as those wind patterns break down, 
 it just makes events like last week substantially more common." From her lead-up to the interview it is clear that
-Interviewer Judy Woodruff holds a similar belief: "All of us face the risk that extreme weather events like the recent 
+interviewer Judy Woodruff holds a similar belief: "All of us face the risk that extreme weather events like the recent 
 one in Texas will become more common and more destructive occurrences because of climate change."
 
 A few days ago Naomi Klein [wrote in the New York Times](https://www.nytimes.com/2021/02/21/opinion/green-new-deal-texas-blackout.html) 
@@ -32,7 +32,21 @@ The latter is illustrated in the figure below, which is from [this paper](https:
 ![_config.yml]({{ site.baseurl }}/images/erlab4867f1_lr.jpg)
 
 It shows a regression of the observed temperature of the coldes day in the year onto a smoothed version of global average temperature. 
-Since global average temperature has increased red colors indicate that temperatures of the coldest day have also increased, 
-which means cold waves have become less intense. The same paper also shows that cold waves have become less frequent.
+Since global average temperature has increased red colors indicate places where the temperatures of the coldest day have also increased. 
+Since almost all places show up in red it means that cold waves have become less intense. (The top panel uses daily minimum and the bottom panel daily 
+maximum temperatures.) The same paper also shows that cold waves have become less frequent.
 
+This does make good physical sense, because global warming leads to warming almost everywhere and at any time of the year. This includes winter and times during 
+which it is particularly cold. So given this simple physical reasoning and observations that show the opposite, where does the idea come from that global
+warming could make cold events worse? There have been various speculations in the scientific literature. A popular one suggests 
+that more warming in the Arctic due to sea ice loss would weaken the polar vortex, which is the belt of strong winds surrounding the Arctic that acts like 
+a barrier. A weaker vortex would then become more wobbly, which would allow cold polar air to penetrate further south. Although interesting for scientists, this 
+theory is very controversial and no consensus exists within the scientific community. This was pointed out recently by [Valerie Masson-Delmotte](https://twitter.com/valmasdel/status/1362027199038173191) quoting from the IPCC's most recent Assessment Report "Changes in Arctic sea ice have the potential 
+to influence mid-latitude weather (medium confidence), but there is low confidence in the detection of this influence for specific weather types."
 
+## A Science Communication Failure?
+So why is a highly speculative theory so prevalent in the public sphere, while the more straightforward and physical explanation is not? 
+I think it may be due to a failure in communicating uncertainty. As climate scientists I think we should avoid communicating highly speculative theories. 
+We should prioritize and emphasize to communicate the things we know best, the things we're really sure about. Thus, in the context of cold extremes and 
+global warming we should say that, if anything, global warming makes cold extremes less likely. If we don't say that but rather say that global warming increases 
+extremes in general.
