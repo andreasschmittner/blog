@@ -49,4 +49,4 @@ So why is a highly speculative theory so prevalent in the public sphere, while t
 I think it may be due to a failure in communicating uncertainty. As climate scientists I think we should avoid communicating highly speculative theories. 
 We should prioritize and emphasize to communicate the things we know best, the things we're really sure about. Thus, in the context of cold extremes and 
 global warming we should say that, if anything, global warming makes cold extremes less likely. If we don't say that but rather say that global warming increases 
-extremes in general.
+extremes in general and that it could make the jet stream more wobbly it can lead to public confusion.
