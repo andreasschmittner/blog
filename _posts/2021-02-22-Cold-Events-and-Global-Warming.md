@@ -3,7 +3,7 @@ In the public discussion I've noticed the broadly held misconception that global
 events or makes them worse. I don't think there is solid scientific evidence for this. To the contrary, I think 
 the evidence indicates that, if anything, those events become less extreme and less frequent with global warming. 
 So what causes this wide-spread misconception even from normally reliable and well-informed media outlets and public figures? 
-But before we can address that question let me quickly document the discrepancy between media and science.
+Before addressing that question let me quickly document the discrepancy between media and science.
 
 *Media*
 On tonights PBS Newshour (Bill Gates said)[https://www.pbs.org/newshour/show/bill-gates-on-tackling-climate-change-and-the-ongoing-pandemic-response] 
