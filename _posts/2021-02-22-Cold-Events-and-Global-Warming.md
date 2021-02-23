@@ -10,7 +10,7 @@ So what causes this wide-spread misconception even from normally reliable and we
 Before addressing that question let me quickly document the discrepancy between media and science.
 
 # Media
-On tonights PBS Newshour (Bill Gates said)[https://www.pbs.org/newshour/show/bill-gates-on-tackling-climate-change-and-the-ongoing-pandemic-response] 
+On tonights PBS Newshour [Bill Gates said](https://www.pbs.org/newshour/show/bill-gates-on-tackling-climate-change-and-the-ongoing-pandemic-response) 
 "Well, the world has had these wind patterns 
 that keep cold fronts from up in Canada from coming down into the Midwest. And as those wind patterns break down, 
 it just makes events like last week substantially more common." From her lead-up to the interview it is clear that
