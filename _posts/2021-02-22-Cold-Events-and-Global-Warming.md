@@ -9,7 +9,7 @@ the evidence indicates that, if anything, those events become less extreme and l
 So what causes this wide-spread misconception even from normally reliable and well-informed media outlets and public figures? 
 Before addressing that question let me quickly document the discrepancy between media and science.
 
-# Media
+## Media
 On tonights PBS Newshour [Bill Gates said](https://www.pbs.org/newshour/show/bill-gates-on-tackling-climate-change-and-the-ongoing-pandemic-response) 
 "Well, the world has had these wind patterns 
 that keep cold fronts from up in Canada from coming down into the Midwest. And as those wind patterns break down, 
@@ -26,6 +26,13 @@ are having global warming as an average, another impact of climate change is tha
 So, if you look at hurricanes, if you look at storms, but also if you look at heatwaves and coldwaves, they are becoming more extreme because 
 of climate change. Climate change amplifies."
 
-# Science
-Global warming does make heatwaves more common and more intense, but it makes cold extremes less common and less intense. The latter
+## Science
+Global warming does make heatwaves more common and more intense, but it makes cold extremes less common and less intense. 
+The latter is illustrated in the figure below, which is from [this paper](https://iopscience.iop.org/article/10.1088/1748-9326/ab4867).
 ![_config.yml]({{ site.baseurl }}/images/erlab4867f1_lr.jpg)
+
+It shows a regression of the observed temperature of the coldes day in the year onto a smoothed version of global average temperature. 
+Since global average temperature has increased red colors indicate that temperatures of the coldest day have also increased, 
+which means cold waves have become less intense. The same paper also shows that cold waves have become less frequent.
+
+
