@@ -17,9 +17,10 @@ it just makes events like last week substantially more common." From her lead-up
 Interviewer Judy Woodruff holds a similar belief: "All of us face the risk that extreme weather events like the recent 
 one in Texas will become more common and more destructive occurrences because of climate change."
 
-A few days ago Naomi Klein wrote in the New York Times "It was the very sort of freakish weather system now increasingly common, 
-thanks to the unearthing and burning of fossil fuels like coal and gas." A few days ago Antonio Guterres, the UN Sectetary General, (said the 
-following)[https://www.un.org/sg/en/content/sg/press-encounter/2021-02-18/secretary-generals-joint-press-conference-executive-director-of-unep-inger-andersen-launch-unep-report-entitled-%E2%80%9Cmaking-peace-nature-scientific-blueprint-tackle]: 
+A few days ago Naomi Klein [wrote in the New York Times](https://www.nytimes.com/2021/02/21/opinion/green-new-deal-texas-blackout.html) 
+"It was the very sort of freakish weather system now increasingly common, 
+thanks to the unearthing and burning of fossil fuels like coal and gas." A few days ago Antonio Guterres, the UN Sectetary General, [said the 
+following](https://www.un.org/sg/en/content/sg/press-encounter/2021-02-18/secretary-generals-joint-press-conference-executive-director-of-unep-inger-andersen-launch-unep-report-entitled-%E2%80%9Cmaking-peace-nature-scientific-blueprint-tackle): 
 "Secretary-General:  Well, we are having global warming, clearly, as an average in the world. But at the same time, as we 
 are having global warming as an average, another impact of climate change is that all storms, all oscillations are becoming more extreme. 
 So, if you look at hurricanes, if you look at storms, but also if you look at heatwaves and coldwaves, they are becoming more extreme because 
