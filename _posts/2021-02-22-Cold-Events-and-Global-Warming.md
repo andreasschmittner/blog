@@ -19,7 +19,7 @@ one in Texas will become more common and more destructive occurrences because of
 
 A few days ago Naomi Klein [wrote in the New York Times](https://www.nytimes.com/2021/02/21/opinion/green-new-deal-texas-blackout.html) 
 "It was the very sort of freakish weather system now increasingly common, 
-thanks to the unearthing and burning of fossil fuels like coal and gas." A few days ago Antonio Guterres, the UN Sectetary General, [said the 
+thanks to the unearthing and burning of fossil fuels like coal and gas." Not long before that Antonio Guterres, the UN Sectetary General, [said the 
 following](https://www.un.org/sg/en/content/sg/press-encounter/2021-02-18/secretary-generals-joint-press-conference-executive-director-of-unep-inger-andersen-launch-unep-report-entitled-%E2%80%9Cmaking-peace-nature-scientific-blueprint-tackle): 
 "Well, we are having global warming, clearly, as an average in the world. But at the same time, as we 
 are having global warming as an average, another impact of climate change is that all storms, all oscillations are becoming more extreme. 
