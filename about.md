@@ -8,7 +8,7 @@ I'm a climate scientist at Oregon State University.
 
 ### More Information
 
-My homepage is here.
+My homepage is [here](https://andreasschmittner.github.io/).
 
 ### Contact me
 
