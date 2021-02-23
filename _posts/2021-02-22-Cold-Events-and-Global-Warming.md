@@ -50,6 +50,6 @@ detection of this influence for specific weather types." One of the issues with 
 ## A Science Communication Failure?
 So why is a highly speculative theory so prevalent in the public sphere, while the more straightforward and physical explanation is not? 
 I think it may be due to a failure in communicating uncertainty. As climate scientists I think we should avoid communicating highly speculative theories. 
-In communicating with the public it is advisable to communicate the things we know best, the things we're really sure about. In the context of cold extremes and 
+In communicating with the public it is advisable to emphasize the things we know best, the things we're really sure about. In the context of cold extremes and 
 global warming this is the observational evidence that, if anything, global warming makes cold extremes less likely. If we omit this and make general statements
 about global warming increasing extremes and take a long time to elaborate on a controversial theory it can lead to public confusion.
