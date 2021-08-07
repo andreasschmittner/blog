@@ -2,7 +2,7 @@
 layout: post
 title: Cold Events and Global Warming
 ---
-xThe recent extreme cold event in the US has raised questions about its relation with human-caused warming. 
+The recent extreme cold event in the US has raised questions about its relation with human-caused warming. 
 In the public discussion I've noticed the broadly held misconception that global warming increases those 
 events or makes them worse. I don't think there is solid scientific evidence for this. To the contrary, I think 
 the evidence indicates that, if anything, those events become less extreme and less frequent with global warming. 
