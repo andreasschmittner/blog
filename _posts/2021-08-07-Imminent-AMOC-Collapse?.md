@@ -7,3 +7,4 @@ The recent paper by [Nicklas Boers (2021)](https://www.nature.com/articles/s4155
 Let me start by noting that the paper is well written and describes a new and interesting approach to analysing AMOC stability. The method is based on simple systems: a non-linear differential equation of a single variable. If such a system has an equilibrium it can be linearized around that equilibrium such that the perturbation (the deviation from the equilibrium) x is characterized by the simple differential equation
 $$ \frac{\partial x}{\partial t} = \lambda x + \text{noise}$$, where $$\frac{\partial x}{\partial t}$$ is the rate-of-change of x with time. The equilibrium is stable if $$\lambda$$ is negative since any perturbation will be dampened by the $$\lambda x$$ term, which restores x back towards zero. If $$\lambda > 0$$ the system is unstable since every small perturbation will grow over time.
 
+![_config.yml]({{ site.baseurl }}/images/41558_2021_1097_Fig1_HTML.png)
