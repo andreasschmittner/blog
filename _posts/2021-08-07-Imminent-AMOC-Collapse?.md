@@ -13,4 +13,6 @@ The panels on the left are from a simple non-linear system that undergoes a bifu
 
 Long control simulations with climate models could be used to test how these parameters vary due to AMOC fluctuations that don't cross a threshold and what the likelihood is that they produce a false alarm. This test would reveal how likely the method would produce a false alarm that apparently hasn't been performed so far.
 
-The method relies on dis
+The main result of the paper is shown in the following figure, in which the author applies the method to surface temperature (and salinity) data as proxies for the AMOC. 
+
+![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41558-021-01097-4/MediaObjects/41558_2021_1097_Fig3_HTML.png)
