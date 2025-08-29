@@ -10,7 +10,7 @@ was written by only five authors, who are extreme outliers in the larger communi
 There are thousands of climate scientists and having worked in this area for more than 25 years I know many of them and I'm also
 familiar with the literature. As with any group of people there are differences of opinions and views among climate scientists. 
 However, most are concerned about the ongoing effects of human-caused global warming, which have been documented extensively. But 
-there are also scientists with views that are not broadly share by most otheres. For example, there are some who think that 
+there are also scientists with views that are not broadly share by most others. For example, there are some who think that 
 climate change will have catastrophic impacts in the near future and that fossil fuel use must be stopped immediately. On the other
 hand there are some who don't think climate change will have much of an impact and that nothing should be done about it. The authors 
 choosen for the new DOE report are from the latter group. In other words, the authors have not been choosen to get a representative 
