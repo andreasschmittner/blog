@@ -45,7 +45,11 @@ and droughts are not supported by U.S. historical data". However, we also know t
 is projected to increase, and that the impacts of hurricanes will become worse due to human-caused climate change due to increased
 precipitation and higher sea level, which increases flooding. This evidence is not mentioned in the executive summary.
 
-In other words, the DOE report highlights only selected evidence that supports the view of the authors and the current administration 
+There are many more examples of this kind of "cherry picking" in the report as documented in more detail [here](https://interactive.carbonbrief.org/doe-factcheck/index.html) and the general problems with the report are discussed [here](https://www.ametsoc.org/ams/about-ams/ams-statements/statements-of-the-ams-in-force/the-practice-and-assessment-of-science-five-foundational-flaws-in-the-department-of-energys-2025-climate-report/).
+
+In summary, the DOE report highlights only selected evidence that supports the view of the authors and the current administration 
 that climate change is not a big deal or even a ["hoax"](https://www.c-span.org/clip/campaign-2016/user-clip-trump-calling-climate-chnage-a-hoax/4826855),
 while ignoring evidence that does not align with their view.
+
+
 
