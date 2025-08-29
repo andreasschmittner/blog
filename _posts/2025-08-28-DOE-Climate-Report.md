@@ -9,7 +9,7 @@ was written by only five authors, who are extreme outliers in the larger communi
 
 There are thousands of climate scientists and having worked in this area for more than 25 years I know many of them and I'm also
 familiar with the literature. As with any group of people there are differences of opinions and views among climate scientists. 
-However, most are concerned about the ongoing effects of human-caused global warming, which have been documented extensively and think it is a good idea to transition away from fossil fuels. But 
+However, most are concerned about the ongoing effects of human-caused global warming and think it is a good idea to transition away from fossil fuels. But 
 there are also scientists with views that are not broadly share by most others. For example, there are some who think that 
 climate change will have catastrophic impacts in the near future and that fossil fuel use must be stopped immediately. On the other
 hand there are some who don't think climate change will have much of an impact and that nothing should be done about it. The authors 
