@@ -3,7 +3,7 @@ layout: post
 title: DOE Climate Report
 ---
 The Department of Energy has published a new [report](https://www.energy.gov/topics/climate) on climate science, which comes to very different conclusions than previous reports, such as 
-those from the Intergovernmental Panel on Climate Change (IPCC) or the US National Climate Assessments. Those previous reports were
+those from the Intergovernmental Panel on Climate Change ([IPCC](https://www.ipcc.ch/)) or the US National Climate Assessments. Those previous reports were
 written by a large number of scientists and are representative of the larger community of climate scientists, while the new report 
 was written by only five authors, who are extreme outliers in the larger community of climate scientists.
 
