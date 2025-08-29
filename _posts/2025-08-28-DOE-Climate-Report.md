@@ -17,7 +17,7 @@ choosen for the new DOE report are from the latter group. In other words, the au
 view of the field but to emphasize a certain extreme viewpoint.
 
 Because climate science is a complex topic there are many lines of evidence to consider. Some evidence, for example the recent 
-bleaching of coral reefs in the tropics, have scientists who study those corals alarmed about their future fate. Coral bleaching 
+bleaching of coral reefs in the tropics, have scientists who study those corals alarmed about their fate. Coral bleaching 
 is affected by warm temperatures, which leads to expulsion of the coral's symbiotic algea. Since those algea feed the corals their 
 expulsion is detrimental to the coral's health and it can lead to its death if bleaching events happen repeatedly. Corals are also 
 negatively affected by ocean acidification, which compromises their ability to build their protective outer skeletons, which make up 
@@ -31,7 +31,7 @@ that "Much of the public discussion of the effects of ocean “acidification” 
 Then there is evidence that indicates recovery of corals in some years. The DOE report cites a 
 [report](https://www.aims.gov.au/sites/default/files/2022-08/AIMS_LTMP_Report_on%20GBR_coral_status_2021_2022_040822F3.pdf) 
 by the Australian Institute of Marince Science (AIMS) from 2022 documenting coral recovery at the Great Barrier Reef, but it does not 
-mention that the dangers of ongoing warming for the future of the Great Barrier Reef (GBR) even though it is clearly stated in the same 
+mention the dangers of ongoing warming for the future of the Great Barrier Reef (GBR) even though those are clearly stated in the same 
 AIMS report: "The GBR remains exposed to predicted consequences of climate change, including more frequent and intense marine heat 
 waves" and "the increasing frequency and extent of mass bleaching events in recent years poses a significant risk to the state of 
 reefs in the GBR". Moreover, the [AIMS website](https://www.aims.gov.au/information-centre/news-and-stories/worst-bleaching-event-record-wa-coral-reefs-following-long-lasting-and-widespread-marine-heatwave
@@ -39,7 +39,7 @@ reefs in the GBR". Moreover, the [AIMS website](https://www.aims.gov.au/informat
 
 Another example is hurricanes. Climate scientists have documented that the frequency of hurricanes does not increase and is not 
 expected to increase with global warming. The reason is that there are opposing effects of warmer surface water, which make 
-hurricanes more powerful, and changes in wind sheer in the atmosphere, that reduce the chances of hurricane formation. This is what
+hurricanes more powerful, and changes in wind shear in the atmosphere, that reduce the chances of hurricane formation. This is what
 the DOE report highlights in its executive summary: "claims of increased frequency or intensity of hurricanes, tornadoes, floods, 
 and droughts are not supported by U.S. historical data". However, we also know that the frequency of the most powerful hurricanes
 is projected to increase, and that the impacts of hurricanes will become worse due to human-caused climate change due to increased
